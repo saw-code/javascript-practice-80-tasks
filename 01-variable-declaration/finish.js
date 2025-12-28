@@ -9,4 +9,5 @@
  */
 
 const myCountry = "Russian Federation"
+
 console.log(myCountry)
