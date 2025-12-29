@@ -11,6 +11,7 @@
  * 3. Выведите значение последней переменной в консоль
  */
 
+
 const firstName = 'DimOk'
 const familyName = 'Pilavsky'
 const myProfession = 'Backend developer'
