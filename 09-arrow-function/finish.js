@@ -10,3 +10,11 @@
  *
  * 5. Перепишите функцию так, чтобы результат возвращался неявно
  */
+
+// const myArrowFunction = () => {
+//   return 'Привет, мир!'
+// }
+
+const myArrowFunction = () => 'Привет, мир!'
+
+console.log(myArrowFunction())
