@@ -5,4 +5,6 @@
  * 2. Используйте стрелочную функцию
  */
 
+const myFn = setTimeout(() => console.log('Привет, мир!'), 5000)
 
+myFn
