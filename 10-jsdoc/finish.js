@@ -12,3 +12,16 @@
  *
  * 4. Вызовите функцию
  */
+
+/*
+Возвращает разницу двух чисел
+param1, param2 - number
+return - возвращаемого значения - number
+param1 - param2 - разница чисел
+ */
+
+const myFn = (param1, param2) => {
+  return param1 - param2
+}
+
+myFn(7,2)
