@@ -9,3 +9,10 @@
  * 4. Выведите в консоль измененный массив
  */
 
+const myArray = [true, 67, 'DimOk']
+
+console.log(myArray)
+
+myArray[2] = false
+
+console.log(myArray)
