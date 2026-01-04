@@ -6,3 +6,11 @@
  *
  * 3. Выведите в консоль длину результирующего массива
  */
+
+const myArray = [true, 77, 'DimOk', false, null, 'Hello']
+
+myArray.push(888, 'Buy')
+
+console.log(myArray)
+
+console.log(myArray.length)
