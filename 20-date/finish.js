@@ -5,3 +5,6 @@
  * 2. Выведите значение в консоль
  */
 
+const myDate = Date.now()
+
+console.log(myDate)
