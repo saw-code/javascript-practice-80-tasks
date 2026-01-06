@@ -6,4 +6,14 @@
  * 2. Преобразуйте обе переменные в числа перед сравнением.
  */
 
+let myVariable1 = 3
+let myVariable2 = '5'
 
+// Напишите код здесь
+
+myVariable1 = Number(myVariable1)
+myVariable2 = Number(myVariable2)
+
+if (myVariable1 <= myVariable2) {
+  console.log(true)
+}
